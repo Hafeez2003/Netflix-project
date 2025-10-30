@@ -55,7 +55,7 @@ It taught me how to combine technical skills with business thinking to create re
 
 Here’s a sample Power BI dashboard from the project:
 
-![Netflix Dashboard Screenshot](/Dashboard.png)
+![Netflix Dashboard Screenshot](/dashboard.png)
 
 
 ---
